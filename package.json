@@ -2,7 +2,7 @@
   "name": "bonus-promo-code",
   "version": "1.0.0",
   "description": "Bonus Promo Code Platform",
-  "private": true,
+  "private": false,
   "type": "module",
   "main": "dist/server.cjs",
   "scripts": {
